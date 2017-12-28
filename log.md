@@ -22,3 +22,14 @@
 **Link to work** [Be_heard]: (https://github.com/monishnarwani/be-heard/commit/b725d6dea62deec14633972e2d62d020088376fe)
 
 #
+
+### Day 3: December 28, 2017 
+
+### Project: Be-Heard
+**Today's Progress**: update to custom validator, work in progress for writing tests for that
+
+**Thoughts**: I have worked on improving & solving issues of validator
+
+**Link to work** [Tickets_App]: (https://github.com/monishnarwani/be-heard/commit/633a7a607702335e0c5e61b112e01bf6a3b60bf5)
+
+#
