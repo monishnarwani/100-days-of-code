@@ -33,3 +33,36 @@
 **Link to work** [Tickets_App]: (https://github.com/monishnarwani/be-heard/commit/633a7a607702335e0c5e61b112e01bf6a3b60bf5)
 
 #
+
+### Day 4: December 31, 2017 
+
+### Project: tickets_app
+**Today's Progress**: RND on parallax effect & scrollMagic plugin
+
+**Thoughts**: RND to use scroll magic plugin in various projects 
+
+**Link to work** [Tickets_App]: ()
+
+#
+
+#
+
+### Day 5: January 1, 2018
+
+### Project: be-heard
+**Today's Progress**: Completed the remaining test
+
+**Thoughts**: solved the confusion between comma & new line & created the first pull request & become second contributor to be-heard :) 
+
+**Link to work** [be_heard]: (https://github.com/monishnarwani/be-heard/commit/183391c24a99922b230cbe5d611c63e68a1d5ac4)
+
+#
+
+### Project: tickets_app => awesome-app
+**Today's Progress**: migrated to laravel 5.5  
+
+**Thoughts**: migrated to 5.5 to learn new thing instead of old, also migrated project to gitlab to manange project easily 
+
+**Link to work** [awesome-app]: (https://gitlab.com/narwanimonish19/awesome-app)
+
+#
