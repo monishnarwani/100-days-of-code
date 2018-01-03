@@ -45,7 +45,6 @@
 
 #
 
-#
 
 ### Day 5: January 1, 2018
 
@@ -56,7 +55,6 @@
 
 **Link to work** [be_heard]: (https://github.com/monishnarwani/be-heard/commit/183391c24a99922b230cbe5d611c63e68a1d5ac4)
 
-#
 
 ### Project: tickets_app => awesome-app
 **Today's Progress**: migrated to laravel 5.5  
@@ -64,5 +62,17 @@
 **Thoughts**: migrated to 5.5 to learn new thing instead of old, also migrated project to gitlab to manange project easily 
 
 **Link to work** [awesome-app]: (https://gitlab.com/narwanimonish19/awesome-app)
+
+#
+
+### Day 6: January 3, 2018
+
+### Project: be-heard
+**Today's Progress**: created comments table, & its seeding done
+
+**Thoughts**: Today i learned how to write factory methods while seeding & also they are used while testing. New thing to learn:)
+
+**Link to work** [be_heard]: (https://github.com/monishnarwani/be-heard/commit/55baef67465a1187d8b3f9ba4b7c467b2192acf9)
+
 
 #
