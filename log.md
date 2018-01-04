@@ -76,3 +76,15 @@
 
 
 #
+
+### Day 7: January 4, 2018
+
+### Project: awesome-app
+**Today's Progress**: created Tickets UI & RND on printing using web(Print.js)
+
+**Thoughts**: today i worked on creating UI for creating tickets, but then saving details it feels like i have some requirements unclear. So I done RND on printing ticket. I found print.js & understood its concept
+
+**Link to work** [be_heard]: (https://gitlab.com/narwanimonish19/awesome-app/commit/150a8d863f532138a59a0ee7ff3c8f375aa73101)
+
+
+#
