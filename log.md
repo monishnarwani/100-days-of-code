@@ -88,3 +88,15 @@
 
 
 #
+
+### Day 8: January 5, 2018
+
+### Project: awesome-app
+**Today's Progress**: Practice the print js library to decide how to use it
+
+**Thoughts**: today i worked on practicing how to use print js in my project & messed up with css. Decided to learn first CSS then continue my project.
+
+**Link to work** [be_heard]: (https://gitlab.com/narwanimonish19/awesome-app/commit/150a8d863f532138a59a0ee7ff3c8f375aa73101)
+
+
+#
