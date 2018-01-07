@@ -96,7 +96,27 @@
 
 **Thoughts**: today i worked on practicing how to use print js in my project & messed up with css. Decided to learn first CSS then continue my project.
 
-**Link to work** [be_heard]: (https://gitlab.com/narwanimonish19/awesome-app/commit/150a8d863f532138a59a0ee7ff3c8f375aa73101)
+**Link to work** [awesome-app]: (https://gitlab.com/narwanimonish19/awesome-app/)
 
 
 #
+
+### Day 9: January 6, 2018
+
+### Project: awesome-app
+**Today's Progress**: Learning basics of CSS
+
+**Thoughts**: I started learning basics of CSS as I has to use in my project.
+
+**Link to work** [awesome-app]: (https://gitlab.com/narwanimonish19/awesome-app/)
+
+#
+
+### Day 10: January 7, 2018
+
+### Project: awesome-app
+**Today's Progress**: Learning basics of CSS (contd.)
+
+**Thoughts**: Today i was learning animations & transitions & lots more stuff.
+
+**Link to work** [awesome-app]: (https://gitlab.com/narwanimonish19/awesome-app/)
