@@ -120,3 +120,31 @@
 **Thoughts**: Today i was learning animations & transitions & lots more stuff.
 
 **Link to work** [awesome-app]: (https://gitlab.com/narwanimonish19/awesome-app/)
+
+#
+
+### Day 10: January 9, 2018
+
+### Project: Udemy-Sass
+**Today's Progress**: Learning basics of CSS advanced css course on udemy
+
+**Thoughts**: Today i started learning designing to improve myself
+**Link to work** []: ()
+
+#
+
+### Day 10: January 10, 2018
+
+### Project: Udemy-Sass & google cloud 
+**Today's Progress**: Learning basics of CSS advanced css course on udemy & started learning google cloud on coursera.org
+
+**Thoughts**: Today i started learning GCP an new cloud to learn after aws
+**Link to work** []: ()
+
+### Day 10: January 10, 2018
+
+### Project: Udemy-Sass & google cloud 
+**Today's Progress**: Learning basics of CSS advanced css course on udemy & watched some videos & quizes on coursera
+
+**Thoughts**: 
+**Link to work** []: ()
