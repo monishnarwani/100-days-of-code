@@ -123,7 +123,7 @@
 
 #
 
-### Day 10: January 9, 2018
+### Day 11: January 9, 2018
 
 ### Project: Udemy-Sass
 **Today's Progress**: Learning basics of CSS advanced css course on udemy
@@ -133,7 +133,7 @@
 
 #
 
-### Day 10: January 10, 2018
+### Day 12: January 10, 2018
 
 ### Project: Udemy-Sass & google cloud 
 **Today's Progress**: Learning basics of CSS advanced css course on udemy & started learning google cloud on coursera.org
@@ -141,10 +141,19 @@
 **Thoughts**: Today i started learning GCP an new cloud to learn after aws
 **Link to work** []: ()
 
-### Day 10: January 10, 2018
+### Day 13: January 10, 2018
 
 ### Project: Udemy-Sass & google cloud 
 **Today's Progress**: Learning basics of CSS advanced css course on udemy & watched some videos & quizes on coursera
 
 **Thoughts**: 
 **Link to work** []: ()
+
+
+### Day 14: January 13, 2018
+
+### Project: be-heard
+**Today's Progress**: profile page displaying comments & conversation of users 
+
+**Thoughts**: CSS remaining for comments displaying
+**Link to work** []: (https://github.com/monishnarwani/be-heard)
