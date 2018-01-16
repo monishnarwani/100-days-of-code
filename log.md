@@ -141,6 +141,8 @@
 **Thoughts**: Today i started learning GCP an new cloud to learn after aws
 **Link to work** []: ()
 
+#
+
 ### Day 13: January 10, 2018
 
 ### Project: Udemy-Sass & google cloud 
@@ -149,11 +151,32 @@
 **Thoughts**: 
 **Link to work** []: ()
 
+#
 
 ### Day 14: January 13, 2018
 
 ### Project: be-heard
 **Today's Progress**: profile page displaying comments & conversation of users 
+
+**Thoughts**: CSS remaining for comments displaying
+**Link to work** []: (https://github.com/monishnarwani/be-heard)
+
+#
+
+### Day 15: January 14, 2018
+
+### Project: be-heard
+**Today's Progress**: change password functionality, test remaining
+
+**Thoughts**: 
+**Link to work** []: (https://github.com/monishnarwani/be-heard)
+
+#
+
+### Day 15: January 16, 2018
+
+### Project: be-heard
+**Today's Progress**: regex custom validation for password
 
 **Thoughts**: CSS remaining for comments displaying
 **Link to work** []: (https://github.com/monishnarwani/be-heard)
