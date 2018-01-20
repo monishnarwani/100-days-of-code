@@ -173,10 +173,21 @@
 
 #
 
-### Day 15: January 16, 2018
+### Day 16: January 16, 2018
 
 ### Project: be-heard
 **Today's Progress**: regex custom validation for password
 
 **Thoughts**: CSS remaining for comments displaying
+**Link to work** []: (https://github.com/monishnarwani/be-heard)
+
+
+#
+
+### Day 17: January 20, 2018
+
+### Project: be-heard
+**Today's Progress**: solved PSR issues & reviewing code
+
+**Thoughts**: 
 **Link to work** []: (https://github.com/monishnarwani/be-heard)
