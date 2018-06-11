@@ -49,3 +49,15 @@
 **Link to work** []:
 
 #
+
+### Day 5: June 11, 2018 
+
+### Project: Angular Events & MongoDB (M001 course)
+ 
+**Today's Progress**: Today i started with angular communication between components or communication from child to parent component using event emitters. Then I done some work on MongoDB.
+ 
+**Thoughts**: 
+
+**Link to work** []:
+
+#
