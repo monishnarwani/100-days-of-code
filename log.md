@@ -61,3 +61,39 @@
 **Link to work** []:
 
 #
+
+### Day 6: June 12, 2018 
+
+### Project: Laravel Package
+ 
+**Today's Progress**: Today i worked little time & used laravel LOC count package
+ 
+**Thoughts**: 
+
+**Link to work** []:
+
+#
+
+### Day 6: June 13, 2018 
+
+### Project: AWS & GATE
+ 
+**Today's Progress**: Today i read blueprint of AWS, & then i was going through GATE exam papers to check if i can do it
+ 
+**Thoughts**: Going through C language questions, it was like I can give that exam
+
+**Link to work** []:
+
+#
+
+### Day 8: June 14, 2018 
+
+### Project: Angular Todo App started
+ 
+**Today's Progress**: Today i started developing Todo app to check my confidence with basic app
+ 
+**Thoughts**: 
+
+**Link to work** []:
+
+#
