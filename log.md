@@ -74,13 +74,49 @@
 
 #
 
-### Day 6: June 13, 2018 
+### Day 7: June 13, 2018 
 
 ### Project: AWS & GATE
  
 **Today's Progress**: Today i read blueprint of AWS, & then i was going through GATE exam papers to check if i can do it
  
 **Thoughts**: Going through C language questions, it was like I can give that exam
+
+**Link to work** []:
+
+#
+
+### Day 8: June 14, 2018 
+
+### Project: Angular Todo App started
+ 
+**Today's Progress**: Today i started developing Todo app to check my confidence with basic app
+ 
+**Thoughts**: 
+
+**Link to work** []:
+
+#
+
+### Day 9: June 16, 2018 
+
+### Project: AWS
+ 
+**Today's Progress**: Today i started LinuxAcademy course of Aws certi & aws educate course. Also I have practice how to increase the size of ec2 without deattach of ebs volume & many other concepts.
+ 
+**Thoughts**: 
+
+**Link to work** []:
+
+#
+
+### Day 10: June 17, 2018 
+
+### Project: MongoDB
+ 
+**Today's Progress**: Today i done week 3 of mongodb course.
+ 
+**Thoughts**: 
 
 **Link to work** []:
 
